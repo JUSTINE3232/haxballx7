@@ -4,17 +4,17 @@
 
 /* ROOM */
 
-const roomName = "[🏆] 𝗙𝘂𝘁𝘀𝗮𝗹 𝘅𝟳 𝗙𝗖 🎉";
-const botName = "𝗙𝗖";
+const roomName = "𝘼𝙆𝙐𝙉𝙎𝘼𝙔𝘼 𝙏𝙀𝘼𝙈X4🪖🚀";
+const botName = "paBOT";
 const maxPlayers = 30;
 const roomPublic = true;
-const geo = [{"code": "ni", "lat": -34.6, "lon": -58.4}]; // Geo
+const geo = [{"code": "pa", "lat": 8.9943, "lon": -79.5188}]; // Geo
 
 const room = HBInit({ roomName: roomName, maxPlayers: maxPlayers, public: roomPublic, playerName: botName, geo: geo[0] });
 
-const adminPassword = "fc_adminnx7_";
+const adminPassword = "adminx4_2524";
 
-const vipPassword = "fc_passwordvip";
+const vipPassword = "Vip2524_1";
 
 const playersToSetVIP = 28;
 const playersToSetPublic = 27;
@@ -167,8 +167,8 @@ function PublicitaDiscord(player) {
     room.sendAnnouncement("                                        ▒█▀▀▄ ▀█▀ ▒█▀▀▀█ ▒█▀▀█ ▒█▀▀▀█ ▒█▀▀█ ▒█▀▀▄ ", null, 0x9250FD, "bold")
     room.sendAnnouncement("                                        ▒█░▒█ ▒█░ ░▀▀▀▄▄ ▒█░░░ ▒█░░▒█ ▒█▄▄▀ ▒█░▒█ ", null, 0x8466FD, "bold")
     room.sendAnnouncement("                                        ▒█▄▄▀ ▄█▄ ▒█▄▄▄█ ▒█▄▄█ ▒█▄▄▄█ ▒█░▒█ ▒█▄▄▀ ", null, 0x7B73FD, "bold");
-    room.sendAnnouncement("                                        💬  https://discord.gg/H4UPFpDJyA ⬅⬅⬅ 𝗙𝘂𝘁𝘀𝗮𝗹 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 [𝗡𝘂𝗲𝘃𝗼]", null, 0xF6FF43, "bold");
-    room.sendAnnouncement("                                        💬  https://discord.gg/wmX35hKQrv ⬅⬅⬅ 𝗙𝘂𝘁𝘀𝗮𝗹 𝗟𝗲𝗮𝗴𝘂𝗲 [𝗟𝗶𝗴𝗮]", null, 0xF6FF43, "bold");
+    room.sendAnnouncement("                                        💬  https://discord.gg/C4RTccQw ⬅⬅⬅ 𝘼𝙆𝙐𝙉𝙎𝘼𝙔𝘼 𝙏𝙀𝘼𝙈", null, 0xF6FF43, "bold");
+    room.sendAnnouncement("                                        💬  https://discord.gg/C4RTccQw ⬅⬅⬅ 𝘼𝙆𝙐𝙉𝙎𝘼𝙔𝘼 𝙏𝙀𝘼𝙈", null, 0xF6FF43, "bold");
     isTimeAddedShownseis = true;
     }
 }
@@ -180,7 +180,7 @@ function PublicitaDonacion(player) {
     room.sendAnnouncement("                                                                                                           ░█─░█ ░█──░█ ░█░█░█ ░█▄▄█", player, 0xea8f73, "normal", 0);
     room.sendAnnouncement("                                                                                                           ░█▄▄▀ ░█▄▄▄█ ░█──▀█ ░█─░█", player, 0xd757b3, "normal", 0);
     room.sendAnnouncement("                       ¡𝗗𝗼𝗻𝗮 𝘆 𝗼𝗯𝘁𝗲𝗻𝗲 𝘃𝗶𝗽 𝘆 𝗺𝗮𝘀 𝗯𝗲𝗻𝗲𝗳𝗶𝗰𝗶𝗼𝘀!", player, 0xd733ff, "bold", 0);
-    room.sendAnnouncement("                                                                                                          ➡➡  🔗 ʟɪɴᴋ: https://discord.gg/HJxrRxpWz7", player, 0xf1ff33, "bold");
+    room.sendAnnouncement("                                                                                                          ➡➡  🔗 ʟɪɴᴋ: https://discord.gg/C4RTccQw", player, 0xf1ff33, "bold");
     isTimeAddedShownsiete = true;
     }
 }
